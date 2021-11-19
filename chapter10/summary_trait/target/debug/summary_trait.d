@@ -1,0 +1,1 @@
+/Users/kws/Onedrive/projects/rust_tutorial/chapter10/summary_trait/target/debug/summary_trait: /Users/kws/Onedrive/projects/rust_tutorial/chapter10/summary_trait/src/lib.rs /Users/kws/Onedrive/projects/rust_tutorial/chapter10/summary_trait/src/main.rs

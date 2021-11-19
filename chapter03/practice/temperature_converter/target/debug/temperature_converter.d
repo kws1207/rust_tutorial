@@ -1,0 +1,1 @@
+/Users/kws/Onedrive/projects/rust_tutorial/chapter03/practice/temperature_converter/target/debug/temperature_converter: /Users/kws/Onedrive/projects/rust_tutorial/chapter03/practice/temperature_converter/src/main.rs
